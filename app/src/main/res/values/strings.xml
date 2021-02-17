@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WearMusicFTP</string>
+
+    <string name="main_title">WearMusic FTP 音乐传输工具</string>
+    <string name="main_ip">IP地址：</string>
+    <string name="main_ip_hint">192.168.x.xxx</string>
+    <string name="main_connect">连接</string>
+    <string name="main_loading"> 连接中…</string>
+    <string name="main_right">v1.0\n\作者：JackuXL\n从@luern0313的项目修改\n©2021 WBTeam 版权所有</string>
+    
+    <string name="transfer_title">选择要传输的文件</string>
+    <string name="transfer_select">选择文件</string>
+    <string name="transfer_transfer">开始传输</string>
+    <string name="transfer_ok">已连接</string>
+    <string name="transfer_tip">传输位置：WearMusic 音乐根目录</string>
+    <string name="transfer_list_empty">文件列表为空！\n点击上方按钮选择要传输的文件</string>
+    <string name="transfer_finish_title">传输完成</string>
+    <string name="transfer_finish_message">共传输 %d 项，传输成功 %d 项，传输失败 %d 项</string>
+</resources>
